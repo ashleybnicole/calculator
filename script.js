@@ -5,11 +5,6 @@
 // eslint-disable-next-line no-unused-vars
 const projectName = 'javascript-calculator';
 
-// To see a more advanced version of this app with features such as toggle sign
-// and Clear Entry buttons, see this pen
-// https://codepen.io/no_stack_dub_sack/full/jrxpKP/
-
-// coded by @no-stack-dub-sack (github) / @no_stack_sub_sack (codepen)
 
 // VARS:
 const isOperator = /[x/+‑]/,
@@ -180,7 +175,7 @@ class Calculator extends React.Component {
 
 
       React.createElement("div", { className: "author" },
-      ' ', "Designed and Coded By ",
+      ' ', "Designed and Coded By Ashley Harrison",
       React.createElement("br", null),
       React.createElement("a", { href: "https://codepen.io/ashleyharrison/full/yLBJvqv", target: "_blank" }, "Ashley Harrison"))));
 
