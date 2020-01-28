@@ -5,13 +5,7 @@
 // eslint-disable-next-line no-unused-vars
 const projectName = 'javascript-calculator';
 
-// To see a more advanced version of this app with features such as toggle sign
-// and Clear Entry buttons, see this pen
-// https://codepen.io/no_stack_dub_sack/full/jrxpKP/
 
-// coded by @no-stack-dub-sack (github) / @no_stack_sub_sack (codepen)
-
-// VARS:
 const isOperator = /[x/+‑]/,
 endsWithOperator = /[x+‑/]$/,
 endsWithNegativeSign = /[x/+]‑$/,
