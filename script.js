@@ -176,7 +176,7 @@ class Calculator extends React.Component {
       React.createElement("div", { className: "author" },
       ' ', "Designed and Coded By ",
       React.createElement("br", null),
-      React.createElement("a", { href: "https://codepen.io/ashleyharrison/full/yLBJvqv", target: "_blank" }, "Ashley Harrison"))));
+      React.createElement("a", { href: "https://ubtagency.com", target: "_blank" }, "Ashley Harrison"))));
 
 
 
